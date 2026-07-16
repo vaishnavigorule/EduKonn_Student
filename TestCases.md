@@ -1,3 +1,7 @@
+# 🧪 EduKonn Student App – Test Cases
+
+This document contains sample manual test cases created for the EduKonn Student App.
+
 | TC ID  | Module        | Test Scenario                                        | Test Data / Input                          | Expected Result                                                                            | Actual Result                                                    | Status   |
 | ------ | ------------- | ---------------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- | -------- |
 | TC_001 | Installation  | Verify app installation from Play Store              | Install EduKonn Tutor app                  | The app should install successfully without errors.                                        | The app installed successfully.                                  | Pass     |
