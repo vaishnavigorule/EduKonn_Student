@@ -32,19 +32,9 @@ This repository contains the manual testing artifacts for the **EduKonn Student 
 
 ## 📌 Modules Tested
 - Login & Registration
-- Dashboard
-- Profile
-- Subject Selection
-- AI Learning Assistant
-- Quizzes & Assessments
-- Progress Tracking
-- Notifications
-- Settings
-- Logout
 
 ## 🛠 Tools Used
 - Manual Testing
-- JIRA
 - Microsoft Excel
 - Android Device
 
