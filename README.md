@@ -26,7 +26,7 @@ This repository contains the manual testing artifacts for the **EduKonn Student 
 📁 Test Cases
 📁 Bug Reports
 📁 Test Execution Report
-📁 Screenshots
+📁 Evidence
 📄 README.md
 ```
 
@@ -52,7 +52,7 @@ This repository contains the manual testing artifacts for the **EduKonn Student 
 - ✅ Test Cases
 - ✅ Test Execution Report
 - ✅ Bug Reports
-- ✅ Screenshots
+- ✅ Evidence
 
 ## 👩‍💻 Author
 
