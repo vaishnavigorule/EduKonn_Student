@@ -13,12 +13,8 @@ This repository contains the manual testing artifacts for the **EduKonn Student 
 ## 🧪 Testing Performed
 - Functional Testing
 - Smoke Testing
-- Regression Testing
 - Exploratory Testing
 - UI Testing
-- Usability Testing
-- Navigation Testing
-- Compatibility Testing
 - Negative Testing
 
 ## 📂 Repository Structure
