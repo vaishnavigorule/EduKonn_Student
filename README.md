@@ -1,4 +1,4 @@
-# 📚 EduKonn Student App – Manual Testing Project
+# 📚 EduKonn Student App – Software Testing 
 
 ## 📖 Project Overview
 This repository contains the manual testing artifacts for the **EduKonn Student App**. The project focuses on validating the application's functionality, usability, and overall user experience through comprehensive manual testing.
